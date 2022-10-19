@@ -1,0 +1,19 @@
+html>
+
+<head>
+    <title>giorgi magradze</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 class="header">giorgi magradze</h1>
+    <p>my name is giorgi magradze and i am 22years old. </p>
+    <img class="photo"
+        src="./images/gio.jpg"
+        alt="it is me">
+    <p id="link">
+        <a href="https://www.facebook.com/giorgi.magradze.10">Facebook</a>
+    </p>
+</body>
+
+</html>
